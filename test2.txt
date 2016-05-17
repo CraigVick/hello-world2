@@ -1,1 +1,1 @@
-Another test file in the test1 branch
+Another test file in the test1 branch. Punctuation is added.
